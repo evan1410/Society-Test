@@ -1,0 +1,46 @@
+C:\Bala\R&D\Base Structure\webPortal\DALPortal\obj\Debug\DALPortal.csprojAssemblyReference.cache
+C:\Bala\R&D\Base Structure\webPortal\DALPortal\obj\Debug\DALPortal.csproj.CoreCompileInputs.cache
+C:\Bala\R&D\Base Structure\webPortal\DALPortal\bin\Debug\DALPortal.dll
+C:\Bala\R&D\Base Structure\webPortal\DALPortal\bin\Debug\DALPortal.pdb
+C:\Bala\R&D\Base Structure\webPortal\DALPortal\obj\Debug\DALPortal.dll
+C:\Bala\R&D\Base Structure\webPortal\DALPortal\obj\Debug\DALPortal.pdb
+C:\Bala\Client Document\OR Team\Project\webPortal\DALPortal\bin\Debug\DALPortal.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\DALPortal\bin\Debug\DALPortal.pdb
+C:\Bala\Client Document\OR Team\Project\webPortal\DALPortal\obj\Debug\DALPortal.csprojAssemblyReference.cache
+C:\Bala\Client Document\OR Team\Project\webPortal\DALPortal\obj\Debug\DALPortal.csproj.CoreCompileInputs.cache
+C:\Bala\Client Document\OR Team\Project\webPortal\DALPortal\obj\Debug\DALPortal.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\DALPortal\obj\Debug\DALPortal.pdb
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\DALPortal\bin\Debug\DALPortal.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\DALPortal\bin\Debug\DALPortal.pdb
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.csproj.CoreCompileInputs.cache
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.pdb
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.csprojAssemblyReference.cache
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\DALPortal\bin\Debug\DALPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\DALPortal\bin\Debug\DALPortal.pdb
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.csprojAssemblyReference.cache
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.csproj.CoreCompileInputs.cache
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.pdb
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\DALPortal\bin\Debug\DALPortal.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\DALPortal\bin\Debug\DALPortal.pdb
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.csprojAssemblyReference.cache
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.csproj.CoreCompileInputs.cache
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.pdb
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\DALPortal\bin\Debug\DALPortal.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\DALPortal\bin\Debug\DALPortal.pdb
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.csprojAssemblyReference.cache
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.csproj.CoreCompileInputs.cache
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.pdb
+D:\Bhalchandra\Society\Project\webPortal\webPortal\DALPortal\bin\Debug\DALPortal.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\DALPortal\bin\Debug\DALPortal.pdb
+D:\Bhalchandra\Society\Project\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.pdb
+D:\Bhalchandra\Society\Project\webPortal\webPortal\DALPortal\obj\Debug\DALPortal.csprojResolveAssemblyReference.cache
+D:\society\webPortal\DALPortal\bin\Debug\DALPortal.dll
+D:\society\webPortal\DALPortal\bin\Debug\DALPortal.pdb
+D:\society\webPortal\DALPortal\obj\Debug\DALPortal.csprojAssemblyReference.cache
+D:\society\webPortal\DALPortal\obj\Debug\DALPortal.dll
+D:\society\webPortal\DALPortal\obj\Debug\DALPortal.pdb

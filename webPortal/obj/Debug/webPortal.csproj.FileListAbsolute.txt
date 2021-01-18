@@ -1,0 +1,678 @@
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\webPortal.dll.config
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\webPortal.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\webPortal.pdb
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\csc.exe
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\csc.exe.config
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\csc.rsp
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\csi.exe
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\csi.exe.config
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\csi.rsp
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.AppContext.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Console.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.IO.Compression.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.IO.Pipes.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Security.AccessControl.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Security.Claims.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Threading.Thread.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.ValueTuple.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\vbc.exe
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\vbc.exe.config
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\vbc.rsp
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bala\R&D\Base Structure\webPortal\webPortal\obj\Debug\webPortal.csproj.CoreCompileInputs.cache
+C:\Bala\R&D\Base Structure\webPortal\webPortal\obj\Debug\webPortal.csproj.CopyComplete
+C:\Bala\R&D\Base Structure\webPortal\webPortal\obj\Debug\webPortal.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\obj\Debug\webPortal.pdb
+C:\Bala\R&D\Base Structure\webPortal\webPortal\obj\Debug\webPortal.csprojAssemblyReference.cache
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\BALPortal.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\DALPortal.dll
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\BALPortal.pdb
+C:\Bala\R&D\Base Structure\webPortal\webPortal\bin\DALPortal.pdb
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\webPortal.dll.config
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\webPortal.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\webPortal.pdb
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\csc.exe
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\csc.exe.config
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\csc.rsp
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\csi.exe
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\csi.exe.config
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\csi.rsp
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.AppContext.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Console.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.IO.Compression.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.IO.Pipes.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Security.AccessControl.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Security.Claims.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Threading.Thread.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.ValueTuple.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\vbc.exe
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\vbc.exe.config
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\vbc.rsp
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\BALPortal.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\DALPortal.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\BALPortal.pdb
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\DALPortal.pdb
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\obj\Debug\webPortal.csprojAssemblyReference.cache
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\obj\Debug\webPortal.csproj.CoreCompileInputs.cache
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\obj\Debug\webPortal.csproj.CopyComplete
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\obj\Debug\webPortal.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\obj\Debug\webPortal.pdb
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\webPortal.dll.config
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\webPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\webPortal.pdb
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\csc.exe
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\csc.exe.config
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\csc.rsp
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\csi.exe
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\csi.exe.config
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\csi.rsp
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.AppContext.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Console.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Compression.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Pipes.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Security.AccessControl.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Claims.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Threading.Thread.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.ValueTuple.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe.config
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\vbc.rsp
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\BALPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\DALPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\BALPortal.pdb
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\DALPortal.pdb
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\obj\Debug\webPortal.csprojAssemblyReference.cache
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\obj\Debug\webPortal.csproj.CoreCompileInputs.cache
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\obj\Debug\webPortal.csproj.CopyComplete
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\obj\Debug\webPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-08\webPortal\webPortal\webPortal\obj\Debug\webPortal.pdb
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\webPortal.dll.config
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\webPortal.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\webPortal.pdb
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\csc.exe
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\csc.exe.config
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\csc.rsp
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\csi.exe
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\csi.exe.config
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\csi.rsp
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.AppContext.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Console.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Compression.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Pipes.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.AccessControl.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Claims.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Threading.Thread.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.ValueTuple.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe.config
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\vbc.rsp
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\BALPortal.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\DALPortal.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\BALPortal.pdb
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\DALPortal.pdb
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\obj\Debug\webPortal.csprojAssemblyReference.cache
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\obj\Debug\webPortal.csproj.CoreCompileInputs.cache
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\obj\Debug\webPortal.csproj.CopyComplete
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\obj\Debug\webPortal.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\obj\Debug\webPortal.pdb
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\webPortal.dll.config
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\webPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\webPortal.pdb
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\csc.exe
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\csc.exe.config
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\csc.rsp
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\csi.exe
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\csi.exe.config
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\csi.rsp
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.AppContext.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Console.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Compression.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Pipes.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Security.AccessControl.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Claims.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Threading.Thread.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.ValueTuple.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe.config
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\vbc.rsp
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\BALPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\DALPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\BALPortal.pdb
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\DALPortal.pdb
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\obj\Debug\webPortal.csprojAssemblyReference.cache
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\obj\Debug\webPortal.csproj.CoreCompileInputs.cache
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\obj\Debug\webPortal.csproj.CopyComplete
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\obj\Debug\webPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\webPortal\obj\Debug\webPortal.pdb
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\webPortal.dll.config
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\webPortal.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\webPortal.pdb
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\csc.exe
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\csc.exe.config
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\csc.rsp
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\csi.exe
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\csi.exe.config
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\csi.rsp
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.AppContext.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Console.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Compression.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Claims.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.ValueTuple.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe.config
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\vbc.rsp
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\BALPortal.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\DALPortal.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\BALPortal.pdb
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\DALPortal.pdb
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\obj\Debug\webPortal.csprojAssemblyReference.cache
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\obj\Debug\webPortal.csproj.CoreCompileInputs.cache
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\obj\Debug\webPortal.csproj.CopyComplete
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\obj\Debug\webPortal.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\webPortal\obj\Debug\webPortal.pdb
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\webPortal.dll.config
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\webPortal.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\webPortal.pdb
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\csc.exe
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\csc.exe.config
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\csc.rsp
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\csi.exe
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\csi.exe.config
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\csi.rsp
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.AppContext.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Console.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Compression.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Pipes.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Security.AccessControl.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Claims.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Threading.Thread.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.ValueTuple.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe.config
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\vbc.rsp
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\BALPortal.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\DALPortal.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\BALPortal.pdb
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\DALPortal.pdb
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\obj\Debug\webPortal.csprojAssemblyReference.cache
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\obj\Debug\webPortal.csproj.CoreCompileInputs.cache
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\obj\Debug\webPortal.csproj.CopyComplete
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\obj\Debug\webPortal.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\webPortal\obj\Debug\webPortal.pdb
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\webPortal.dll.config
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\webPortal.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\webPortal.pdb
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\csc.exe
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\csc.exe.config
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\csc.rsp
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\csi.exe
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\csi.exe.config
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\csi.rsp
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.AppContext.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Collections.Immutable.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Console.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.Process.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Compression.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.IO.Pipes.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.AccessControl.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Claims.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Threading.Thread.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.ValueTuple.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\vbc.exe.config
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\vbc.rsp
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe.config
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\BALPortal.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\DALPortal.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\BALPortal.pdb
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\DALPortal.pdb
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\obj\Debug\webPortal.csprojResolveAssemblyReference.cache
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\obj\Debug\webPortal.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\webPortal\obj\Debug\webPortal.pdb
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\webPortal.dll.config
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\webPortal.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\webPortal.pdb
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\csc.exe
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\csc.exe.config
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\csc.rsp
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\csi.exe
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\csi.exe.config
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\csi.rsp
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.AppContext.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Console.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.IO.Compression.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.IO.Pipes.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Security.AccessControl.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Security.Claims.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Threading.Thread.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.ValueTuple.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\vbc.exe
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\vbc.exe.config
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\vbc.rsp
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\BALPortal.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\DALPortal.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\BALPortal.pdb
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\DALPortal.pdb
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\obj\Debug\webPortal.csprojAssemblyReference.cache
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\obj\Debug\webPortal.csproj.CoreCompileInputs.cache
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\obj\Debug\webPortal.csproj.CopyComplete
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\obj\Debug\webPortal.dll
+C:\Bala\Personal Docs\About Me\Society App\Project\webPortal\webPortal\obj\Debug\webPortal.pdb
+C:\Society_Project\webPortal\webPortal\bin\webPortal.dll.config
+C:\Society_Project\webPortal\webPortal\bin\webPortal.dll
+C:\Society_Project\webPortal\webPortal\bin\webPortal.pdb
+C:\Society_Project\webPortal\webPortal\bin\roslyn\csc.exe
+C:\Society_Project\webPortal\webPortal\bin\roslyn\csc.exe.config
+C:\Society_Project\webPortal\webPortal\bin\roslyn\csc.rsp
+C:\Society_Project\webPortal\webPortal\bin\roslyn\csi.exe
+C:\Society_Project\webPortal\webPortal\bin\roslyn\csi.exe.config
+C:\Society_Project\webPortal\webPortal\bin\roslyn\csi.rsp
+C:\Society_Project\webPortal\webPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Society_Project\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Society_Project\webPortal\webPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.AppContext.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Console.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.IO.Compression.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.IO.Pipes.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Security.AccessControl.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Security.Claims.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Threading.Thread.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.ValueTuple.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Society_Project\webPortal\webPortal\bin\roslyn\vbc.exe
+C:\Society_Project\webPortal\webPortal\bin\roslyn\vbc.exe.config
+C:\Society_Project\webPortal\webPortal\bin\roslyn\vbc.rsp
+C:\Society_Project\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe
+C:\Society_Project\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Society_Project\webPortal\webPortal\bin\BALPortal.dll
+C:\Society_Project\webPortal\webPortal\bin\DALPortal.dll
+C:\Society_Project\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Society_Project\webPortal\webPortal\bin\BALPortal.pdb
+C:\Society_Project\webPortal\webPortal\bin\DALPortal.pdb
+C:\Society_Project\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Society_Project\webPortal\webPortal\obj\Debug\webPortal.csprojAssemblyReference.cache
+C:\Society_Project\webPortal\webPortal\obj\Debug\webPortal.csproj.CopyComplete
+C:\Society_Project\webPortal\webPortal\obj\Debug\webPortal.dll
+C:\Society_Project\webPortal\webPortal\obj\Debug\webPortal.pdb
+D:\society\webPortal\webPortal\bin\webPortal.dll.config
+D:\society\webPortal\webPortal\bin\webPortal.dll
+D:\society\webPortal\webPortal\bin\webPortal.pdb
+D:\society\webPortal\webPortal\bin\roslyn\csc.exe
+D:\society\webPortal\webPortal\bin\roslyn\csc.exe.config
+D:\society\webPortal\webPortal\bin\roslyn\csc.rsp
+D:\society\webPortal\webPortal\bin\roslyn\csi.exe
+D:\society\webPortal\webPortal\bin\roslyn\csi.exe.config
+D:\society\webPortal\webPortal\bin\roslyn\csi.rsp
+D:\society\webPortal\webPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\society\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\society\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\society\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\society\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\society\webPortal\webPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\society\webPortal\webPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\society\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\society\webPortal\webPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\society\webPortal\webPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\society\webPortal\webPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.AppContext.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Collections.Immutable.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Console.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Diagnostics.Process.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.IO.Compression.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.IO.Pipes.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Reflection.Metadata.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Security.AccessControl.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Security.Claims.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Security.Principal.Windows.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Threading.Thread.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.ValueTuple.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Xml.XPath.dll
+D:\society\webPortal\webPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\society\webPortal\webPortal\bin\roslyn\vbc.exe
+D:\society\webPortal\webPortal\bin\roslyn\vbc.exe.config
+D:\society\webPortal\webPortal\bin\roslyn\vbc.rsp
+D:\society\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe
+D:\society\webPortal\webPortal\bin\roslyn\VBCSCompiler.exe.config
+D:\society\webPortal\webPortal\bin\BALPortal.dll
+D:\society\webPortal\webPortal\bin\DALPortal.dll
+D:\society\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\society\webPortal\webPortal\bin\BALPortal.pdb
+D:\society\webPortal\webPortal\bin\DALPortal.pdb
+D:\society\webPortal\webPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\society\webPortal\webPortal\obj\Debug\webPortal.csprojAssemblyReference.cache
+D:\society\webPortal\webPortal\obj\Debug\webPortal.csproj.CopyComplete
+D:\society\webPortal\webPortal\obj\Debug\webPortal.dll
+D:\society\webPortal\webPortal\obj\Debug\webPortal.pdb

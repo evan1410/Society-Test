@@ -1,0 +1,69 @@
+C:\Bala\R&D\Base Structure\webPortal\BALPortal\obj\Debug\BALPortal.csprojAssemblyReference.cache
+C:\Bala\R&D\Base Structure\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CoreCompileInputs.cache
+C:\Bala\R&D\Base Structure\webPortal\BALPortal\bin\Debug\BALPortal.dll
+C:\Bala\R&D\Base Structure\webPortal\BALPortal\bin\Debug\BALPortal.pdb
+C:\Bala\R&D\Base Structure\webPortal\BALPortal\bin\Debug\DALPortal.dll
+C:\Bala\R&D\Base Structure\webPortal\BALPortal\bin\Debug\DALPortal.pdb
+C:\Bala\R&D\Base Structure\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CopyComplete
+C:\Bala\R&D\Base Structure\webPortal\BALPortal\obj\Debug\BALPortal.dll
+C:\Bala\R&D\Base Structure\webPortal\BALPortal\obj\Debug\BALPortal.pdb
+C:\Bala\Client Document\OR Team\Project\webPortal\BALPortal\bin\Debug\BALPortal.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\BALPortal\bin\Debug\BALPortal.pdb
+C:\Bala\Client Document\OR Team\Project\webPortal\BALPortal\bin\Debug\DALPortal.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\BALPortal\bin\Debug\DALPortal.pdb
+C:\Bala\Client Document\OR Team\Project\webPortal\BALPortal\obj\Debug\BALPortal.csprojAssemblyReference.cache
+C:\Bala\Client Document\OR Team\Project\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CoreCompileInputs.cache
+C:\Bala\Client Document\OR Team\Project\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CopyComplete
+C:\Bala\Client Document\OR Team\Project\webPortal\BALPortal\obj\Debug\BALPortal.dll
+C:\Bala\Client Document\OR Team\Project\webPortal\BALPortal\obj\Debug\BALPortal.pdb
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\BALPortal\bin\Debug\BALPortal.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\BALPortal\bin\Debug\BALPortal.pdb
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\BALPortal\bin\Debug\DALPortal.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\BALPortal\bin\Debug\DALPortal.pdb
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csprojAssemblyReference.cache
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CoreCompileInputs.cache
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CopyComplete
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.dll
+C:\Commback\Krutika\DPAT\Project\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.pdb
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\BALPortal\bin\Debug\BALPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\BALPortal\bin\Debug\BALPortal.pdb
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\BALPortal\bin\Debug\DALPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\BALPortal\bin\Debug\DALPortal.pdb
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csprojAssemblyReference.cache
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CoreCompileInputs.cache
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CopyComplete
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.dll
+C:\Bala\Client Document\OR Team\From Kruitka\2020-01-28\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.pdb
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\BALPortal\bin\Debug\BALPortal.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\BALPortal\bin\Debug\BALPortal.pdb
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\BALPortal\bin\Debug\DALPortal.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\BALPortal\bin\Debug\DALPortal.pdb
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csprojAssemblyReference.cache
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CoreCompileInputs.cache
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CopyComplete
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.dll
+C:\Users\shagoyal\Documents\DPAT\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.pdb
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\BALPortal\bin\Debug\BALPortal.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\BALPortal\bin\Debug\BALPortal.pdb
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\BALPortal\bin\Debug\DALPortal.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\BALPortal\bin\Debug\DALPortal.pdb
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csprojAssemblyReference.cache
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CoreCompileInputs.cache
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CopyComplete
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.dll
+C:\Bala\Client Document\OR Team\From Shachi\2020-02-19\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.pdb
+D:\Bhalchandra\Society\Project\webPortal\webPortal\BALPortal\bin\Debug\BALPortal.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\BALPortal\bin\Debug\BALPortal.pdb
+D:\Bhalchandra\Society\Project\webPortal\webPortal\BALPortal\bin\Debug\DALPortal.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\BALPortal\bin\Debug\DALPortal.pdb
+D:\Bhalchandra\Society\Project\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.csprojResolveAssemblyReference.cache
+D:\Bhalchandra\Society\Project\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.dll
+D:\Bhalchandra\Society\Project\webPortal\webPortal\BALPortal\obj\Debug\BALPortal.pdb
+D:\society\webPortal\BALPortal\bin\Debug\BALPortal.dll
+D:\society\webPortal\BALPortal\bin\Debug\BALPortal.pdb
+D:\society\webPortal\BALPortal\bin\Debug\DALPortal.dll
+D:\society\webPortal\BALPortal\bin\Debug\DALPortal.pdb
+D:\society\webPortal\BALPortal\obj\Debug\BALPortal.csprojAssemblyReference.cache
+D:\society\webPortal\BALPortal\obj\Debug\BALPortal.csproj.CopyComplete
+D:\society\webPortal\BALPortal\obj\Debug\BALPortal.dll
+D:\society\webPortal\BALPortal\obj\Debug\BALPortal.pdb
